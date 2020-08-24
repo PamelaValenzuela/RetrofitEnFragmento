@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Desafio3PreguntaFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ver_respuesta">VER RESPUESTA</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="categoria">Categoria</string>
+    <string name="incorrecto">Incorrecto</string>
+    <string name="correcto">Correcto</string>
+</resources>
